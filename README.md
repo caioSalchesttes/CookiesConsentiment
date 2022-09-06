@@ -10,4 +10,4 @@ https://cdn.jsdelivr.net/gh/caioSalchesttes/CookiesConsentiment/lgpdcenter.min.c
 
 Mudar a cor padrão 
 
-<script src="https://cdn.jsdelivr.net/gh/caioSalchesttes/CookiesConsentiment/lgpdcenter.min.js" colorDefault="Coloque a cor aqui"></script>
+><script src="https://cdn.jsdelivr.net/gh/caioSalchesttes/CookiesConsentiment/lgpdcenter.min.js" colorDefault="Coloque a cor aqui"></script>*blockquote*
